@@ -1,7 +1,15 @@
 # Bike Sharing Dashboard 
 
 ## Streamlit Cloud 
-Link Streamlit : <a href='' target='_blank' title='Bike Sharing Dashboard  | Streamlit'>Bike Sharing Dashboard</a>
+Link Streamlit : <a href='https://bike-sharing-data.streamlit.app/' target='_blank' title='Bike Sharing Dashboard  | Streamlit'>Bike Sharing Dashboard</a>
+
+## Screenshot Dashboard
+![](Screenshot-1.png)
+![](Screenshot-2.png)
+![](Screenshot-3.png)
+![](Screenshot-4.png)
+![](Screenshot-5.png)
+![](Screenshot-6.png)
 
 ## Directory
 
@@ -11,7 +19,7 @@ Link Streamlit : <a href='' target='_blank' title='Bike Sharing Dashboard  | Str
 - `README.md` : informasi tentang cara menjalankan dashboard.
 - `requirements.txt` : berisi berbagai library yang digunakan dalam proses analisis data. 
 
-# How to run the dashboard
+## How to run the dashboard
 
 1. Clone This Repository
 ```
